@@ -1624,7 +1624,7 @@
     }
 
     body {
-        background-image: url("https://66.media.tumblr.com/83662524f9457d32a2ccab07d0f3b4da/tumblr_inline_nn85toPpiR1rewzq7_500.png");
+        background-image: url(https://66.media.tumblr.com/83662524f9457d32a2ccab07d0f3b4da/tumblr_inline_nn85toPpiR1rewzq7_500.png);
     }
 
         body.is-loading *, body.is-loading *:before, body.is-loading *:after {
