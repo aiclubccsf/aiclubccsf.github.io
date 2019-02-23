@@ -21,6 +21,10 @@
     article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
         display: block;
     }
+    
+    body {
+        background-image: url("https://66.media.tumblr.com/83662524f9457d32a2ccab07d0f3b4da/tumblr_inline_nn85toPpiR1rewzq7_500.png");
+    }
 
     body {
         line-height: 1;
